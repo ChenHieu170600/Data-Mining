@@ -11,6 +11,7 @@
 CSV2Arff to convert to arff file 
 simplekmean to cluster 
 FPgrowth to frequent itemset mining
+
 =============================================================
 ## Result
 Unfortunately no rules appear on each cluster and all dataset 
