@@ -1,0 +1,14 @@
+{
+	"folders": [],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Program Files\\Weka-3-8-6\\weka.jar"
+		]
+	}
+}
